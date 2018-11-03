@@ -1,7 +1,7 @@
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.SparkSession
 
-object SparkMLlib {
+object MarketBasketAnalysis {
 
   def main(args: Array[String]): Unit = {
 
