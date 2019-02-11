@@ -1,0 +1,5 @@
+1;bat man;23
+112;spider man;23
+112;spider man;27
+112;spider man;29
+12;superman;23
